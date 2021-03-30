@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @haohao20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @haohao22
+- 👀 I’m interested in java development
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1901513213@qq.com
 
