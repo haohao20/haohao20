@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haohao22
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in pyhton development
+- 🌱 I’m currently learning python nlp.I have learned java c c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1901513213@qq.com
 
